@@ -1,2 +1,2 @@
 # ornith
-Ornith is Macaw's design philosophy
+Ornith, an elegant and complete design language for the Macaw GNU/Linux distribution
